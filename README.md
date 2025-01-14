@@ -72,32 +72,6 @@ sales: Tracks sales transactions.
 
 users: Contains user information and roles.
 
-Installation Instructions
-
-Clone the Repository:
-
-git clone https://github.com/your-username/coffee_shop_pos.git
-
-Set Up the Database:
-
-Import the coffee_shop_pos.sql file into your MySQL database.
-
-Configure Backend:
-
-Update the database credentials in the config.php file.
-
-$host = 'localhost';
-$username = 'your-username';
-$password = 'your-password';
-$database = 'coffee_shop_pos';
-
-Launch the Application:
-
-Run a local server (e.g., XAMPP or WAMP).
-
-Place the project folder in the htdocs directory.
-
-Access the application via http://localhost/coffee_shop_pos.
 
 **How to Use**
 
