@@ -90,6 +90,7 @@ Cashier: Handle sales and generate reports.
 Reports: Generate and print daily sales reports.
 
 **Project done by**
+
 Name: Anika Ibnat
 
 
